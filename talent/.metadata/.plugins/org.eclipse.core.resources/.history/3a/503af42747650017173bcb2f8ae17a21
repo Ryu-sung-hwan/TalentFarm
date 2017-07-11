@@ -1,0 +1,7 @@
+package com.spring.main.dao;
+
+public interface MainInterface {
+
+	profileBean profile(String id);
+
+}

@@ -1,0 +1,12 @@
+package com.spring.main.service;
+
+import org.springframework.web.servlet.ModelAndView;
+
+public class BoardService {
+
+	public ModelAndView profile(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.spring.main.service;
+
+import org.springframework.web.servlet.ModelAndView;
+
+@Service
+public class MainService {
+
+	public ModelAndView profile(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

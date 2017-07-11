@@ -1,0 +1,8 @@
+package com.spring.main.controller;
+
+import javax.websocket.server.ServerEndpoint;
+
+@ServerEndpoint(value="websocket")
+public class WebSocket {
+
+}

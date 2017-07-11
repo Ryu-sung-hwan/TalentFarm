@@ -1,0 +1,19 @@
+package com.spring.main.controller;
+
+import javax.websocket.OnClose;
+import javax.websocket.OnMessage;
+import javax.websocket.OnOpen;
+import javax.websocket.server.ServerEndpoint;
+
+@ServerEndpoint(value="websocket")
+public class WebSocket {
+
+	@OnOpen
+	
+	@OnClose
+	
+	@OnMessage
+	
+	
+	
+}
