@@ -1,9 +1,0 @@
-package com.spring.main.dao;
-
-import com.spring.main.beans.ProfileBean;
-
-public interface MainInterface {
-
-	ProfileBean profile(String id);
-
-}

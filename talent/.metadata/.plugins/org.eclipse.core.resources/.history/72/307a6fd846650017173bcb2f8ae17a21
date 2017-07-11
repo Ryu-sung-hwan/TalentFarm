@@ -1,9 +1,0 @@
-package com.spring.main.beans;
-
-public class profileBean {
-
-	private String user_id;
-	private String user_name;
-	private String newfile;
-	
-}
